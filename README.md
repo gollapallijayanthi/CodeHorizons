@@ -23,10 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0051-n-queens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0051-n-queens) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
