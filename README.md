@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
