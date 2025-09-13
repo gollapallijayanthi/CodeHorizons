@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
