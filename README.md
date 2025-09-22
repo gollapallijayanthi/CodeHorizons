@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
