@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
+| [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1448-maximum-69-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1448-maximum-69-number) |
 ## Array
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
+| [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
 ## Interactive
 |  |
