@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0908-middle-of-the-linked-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
