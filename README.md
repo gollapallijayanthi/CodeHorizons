@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
