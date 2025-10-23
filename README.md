@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
