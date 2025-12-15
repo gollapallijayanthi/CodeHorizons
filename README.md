@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
+| [1389-create-target-array-in-the-given-order](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0844-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
