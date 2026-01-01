@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
