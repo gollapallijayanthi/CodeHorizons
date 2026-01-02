@@ -12,7 +12,8 @@ class Solution {
                 res=Math.max(res,mp.size());
                 j++;
             }
-            mp.remove(s.charAt(i));
+           if(mp.get(s.charAt(i))>1) mp.put(s.charAt(i),mp.get(s.charAt(i))-1);
+           else mp.remove(s.charAt(i));
              res=Math.max(res,mp.size());
             i++;
 
