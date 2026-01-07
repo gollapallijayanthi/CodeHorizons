@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0237-delete-node-in-a-linked-list) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -249,12 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
