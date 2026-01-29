@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
