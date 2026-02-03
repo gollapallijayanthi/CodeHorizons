@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3637-trionic-array-i) |
 ## Backtracking
 |  |
 | ------- |
