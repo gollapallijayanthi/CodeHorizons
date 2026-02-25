@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0693-binary-number-with-alternating-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1603-design-parking-system](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1603-design-parking-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3872-find-most-frequent-vowel-and-consonant) |
