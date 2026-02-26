@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1603-design-parking-system](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0844-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
