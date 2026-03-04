@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0844-backspace-string-compare) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
