@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0816-design-hashset) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0844-backspace-string-compare) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1264-maximum-number-of-words-you-can-type) |
