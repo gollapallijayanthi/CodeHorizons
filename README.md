@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1018-largest-perimeter-triangle) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0693-binary-number-with-alternating-bits) |
