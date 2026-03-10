@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3719-longest-balanced-subarray-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1004-max-consecutive-ones-iii) |
 | [3719-longest-balanced-subarray-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3719-longest-balanced-subarray-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3862-find-the-smallest-balanced-index) |
 ## Number Theory
 |  |
 | ------- |
