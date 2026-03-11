@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3314-construct-the-minimum-bitwise-array-i) |
