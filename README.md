@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Linked List
 |  |
