@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3719-longest-balanced-subarray-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3643-flip-square-submatrix-vertically](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0908-middle-of-the-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3643-flip-square-submatrix-vertically](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
