@@ -26,7 +26,7 @@ public:
             sumw+=weights[i];
             if(weights[i]>maxW) maxW=weights[i];
         }
-        int low=maxW,high=sumw;
+        int low=0,high=sumw;
     
         int ans=high;
         while(low<=high){
