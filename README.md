@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -374,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
