@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0074-search-a-2d-matrix) |
+| [0119-pascals-triangle-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 ## Combinatorics
 |  |
