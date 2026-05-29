@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3169-count-days-without-meetings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3637-trionic-array-i) |
