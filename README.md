@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0056-merge-intervals) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0205-isomorphic-strings) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
