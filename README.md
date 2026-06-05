@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
@@ -414,5 +416,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
