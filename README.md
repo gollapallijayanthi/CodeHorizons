@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
