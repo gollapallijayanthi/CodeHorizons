@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1642-water-bottles) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
