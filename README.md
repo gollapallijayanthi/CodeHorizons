@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2574-left-and-right-sum-differences](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2574-left-and-right-sum-differences) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1004-max-consecutive-ones-iii) |
+| [2574-left-and-right-sum-differences](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3719-longest-balanced-subarray-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3862-find-the-smallest-balanced-index) |
 ## Number Theory
