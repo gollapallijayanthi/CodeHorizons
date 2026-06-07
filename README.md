@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3643-flip-square-submatrix-vertically) |
+| [3708-longest-fibonacci-subarray](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3708-longest-fibonacci-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3719-longest-balanced-subarray-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
