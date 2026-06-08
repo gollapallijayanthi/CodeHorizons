@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
