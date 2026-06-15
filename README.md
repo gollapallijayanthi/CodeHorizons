@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
 | ------- |
