@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
