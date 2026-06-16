@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -461,8 +464,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
