@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0560-subarray-sum-equals-k) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Merge Sort
 |  |
 | ------- |
