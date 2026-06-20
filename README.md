@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [0989-add-to-array-form-of-integer](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0989-add-to-array-form-of-integer) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0387-first-unique-character-in-a-string) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0119-pascals-triangle-ii) |
+| [0264-ugly-number-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Merge Sort
 |  |
