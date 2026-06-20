@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/gollapallijayanthi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0342-power-of-four) |
 | [0989-add-to-array-form-of-integer](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0989-add-to-array-form-of-integer) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0240-search-a-2d-matrix-ii) |
+| [0313-super-ugly-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0498-diagonal-traverse](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0498-diagonal-traverse) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/0392-is-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gollapallijayanthi/CodeHorizons/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
